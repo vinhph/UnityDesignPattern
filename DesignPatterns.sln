@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomBuilder", "RoomBuilder\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No59_RepeatUserNames", "No59_RepeatUserNames\No59_RepeatUserNames.csproj", "{9F7F9722-BEC9-4F05-A3ED-0C34C3D6BB98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightCodingExercise", "FlyweightCodingExercise\FlyweightCodingExercise.csproj", "{14CBD2CC-F34D-43A3-A74B-59972544AE55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9F7F9722-BEC9-4F05-A3ED-0C34C3D6BB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F7F9722-BEC9-4F05-A3ED-0C34C3D6BB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F7F9722-BEC9-4F05-A3ED-0C34C3D6BB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CBD2CC-F34D-43A3-A74B-59972544AE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CBD2CC-F34D-43A3-A74B-59972544AE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CBD2CC-F34D-43A3-A74B-59972544AE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CBD2CC-F34D-43A3-A74B-59972544AE55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
